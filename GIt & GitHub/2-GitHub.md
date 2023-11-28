@@ -45,3 +45,8 @@ o en vez
 ```
 git pull Arielquezada123 main
 ```
+
+- para ver si hay cambios en el git remoto, y despues un **git** **status**
+```
+git fetch
+```
