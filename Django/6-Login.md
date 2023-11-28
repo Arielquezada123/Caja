@@ -25,7 +25,7 @@ urlpatterns = [
 - Hacemos un migrations 
 - y si ejecutamos el proyecto nos muestra nuestra pagina con nuestra url llamada cuentas si entramos a `http://127.0.0.1:8000/cuentas` y luego escribimos cualquier cosa como `http://127.0.0.1:8000/cuentas/sk%C3%B1adkl` nos mostrará las direcciones a las que podemos llegar en este caso Login.
 ![[Pasted image 20231118160154.png]]
-- si entramos a Login nos dice que nos falta un template para mostrar que tiene que estar en la carpeta registration / login.html entonces creamos la carpeta en templates y su html.
+- si entramos a Login nos dice que nos falta un template para mostrar que tiene que estar en la carpeta **registration** / **login**.**html** entonces creamos la carpeta en templates y su html.
 ![[Pasted image 20231118181143.png]]
 - vamos a crear el usuario para entrar a la sesión pero antes necesitamos un **super usuario** 
 ```

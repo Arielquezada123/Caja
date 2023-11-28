@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIt & GitHub/2-GitHub.md",
+                "file": "2023-11-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIt & GitHub/2-GitHub.md",
+                "file": "2023-11-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIt & GitHub/2-GitHub.md",
+                "file": "2023-11-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIt & GitHub/2-GitHub.md"
+                "file": "2023-11-28.md"
               }
             }
           }
@@ -149,17 +149,17 @@
   },
   "active": "cf562f1cc262a8e9",
   "lastOpenFiles": [
-    "GIt & GitHub/Comandos.md",
-    "GIt & GitHub/2-GitHub.md",
-    "2023-11-28.md",
+    "2023-11-23 Prueba 3 Back-end.md",
     "2023-11-17 pendiente.md",
+    "2023-11-28.md",
+    "GIt & GitHub/2-GitHub.md",
+    "Django/6-Login.md",
+    "GIt & GitHub/Comandos.md",
     "Sin título.md",
     "Django/1-Inicio de un proyecto en Django.md",
     "Django/2-Templates en Backend.md",
     "Django/3-Conexión a la base de datos.md",
     "Django/5-Formulario y Tablas.md",
-    "Django/6-Login.md",
-    "2023-11-23 Prueba 3 Back-end.md",
     "Django/4-Crear modelo.md",
     "Django/img/Pasted image 20231125182831.png",
     "GIt & GitHub/img/Pasted image 20231116142057.png",
