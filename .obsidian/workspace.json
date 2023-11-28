@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "7b1b1c5ebadac677",
+    "type": "split",
+    "children": [
+      {
+        "id": "afd1af9a9e3d17a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf562f1cc262a8e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-11-28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "40c4f6906d50baaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "eaa8497a31d26f80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d36fd0c80c5ca694",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b50d177ae57b0326",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "46f89cdd2c4f9244",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "3591c420faf32e73",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb0c3f661d476bdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12aa126083a74ec4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2023-11-28.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cf831f8b6d2f261f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023-11-28.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d12b338b794abee6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8a91d47fd4bc6b68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023-11-28.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "cf562f1cc262a8e9",
+  "lastOpenFiles": [
+    "2023-11-17 pendiente.md",
+    "2023-11-28.md",
+    "Sin título.md",
+    "GIt & GitHub/2-GitHub.md",
+    "Django/1-Inicio de un proyecto en Django.md",
+    "Django/2-Templates en Backend.md",
+    "Django/3-Conexión a la base de datos.md",
+    "GIt & GitHub/Comandos.md",
+    "Django/5-Formulario y Tablas.md",
+    "Django/6-Login.md",
+    "2023-11-23 Prueba 3 Back-end.md",
+    "Django/4-Crear modelo.md",
+    "Django/img/Pasted image 20231125182831.png",
+    "GIt & GitHub/img/Pasted image 20231116142057.png",
+    "GIt & GitHub/img/Pasted image 20231115214647.png",
+    "GIt & GitHub/img/Pasted image 20231116225047.png",
+    "GIt & GitHub/img/Pasted image 20231116225122.png",
+    "GIt & GitHub/img/Pasted image 20231116225145.png",
+    "GIt & GitHub/img/Pasted image 20231116225226.png",
+    "GIt & GitHub/img/Pasted image 20231116225247.png",
+    "GIt & GitHub/2-Conectar a GitHub.md",
+    "GIt & GitHub/img/Pasted image 20231115220454.png",
+    "GIt & GitHub/img/Pasted image 20231116091339.png",
+    "GIt & GitHub/1-Inicio Git.md",
+    "Pasted image 20231120200558.png.md",
+    "Android Studio/Nav-bar.md",
+    "Clonar Pagina/GNUGET.md",
+    "NOTAS RAPIDAS/Notas.md",
+    "React/Crear Proyecto en React.md",
+    "Sin título.canvas",
+    "React",
+    "Pasted image 20230108122539.png.md",
+    "Pasted image 20230108122548.png.md",
+    "Pasted image 20230108122519.png.md",
+    "GIt & GitHub/Inicio.md",
+    "GIt & GitHub/Inicio.rar",
+    "Pasted2020230924114711.png.md",
+    "GIt & GitHub/img",
+    "NOTAS RAPIDAS/img",
+    "GIt & GitHub",
+    "[.md",
+    "Clonar Pagina",
+    "Android Studio",
+    "Épicas.md",
+    "NOTAS RAPIDAS/img",
+    "NOTAS RAPIDAS",
+    "Django/img"
+  ]
+}
